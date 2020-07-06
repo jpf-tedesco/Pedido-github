@@ -1,3 +1,5 @@
+/* João Pedro Farias Tedesco */
+
 package entities.enums;
 
 public enum StatusPedido {

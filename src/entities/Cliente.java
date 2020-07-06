@@ -1,3 +1,5 @@
+/* João Pedro Farias Tedesco */
+
 package entities;
 
 import java.text.SimpleDateFormat;

@@ -1,3 +1,5 @@
+/* João Pedro Farias Tedesco */
+
 package application;
 
 import java.text.ParseException;

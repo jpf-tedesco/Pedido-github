@@ -1,3 +1,5 @@
+/* João Pedro Farias Tedesco */
+
 package entities;
 
 public class Produto {
